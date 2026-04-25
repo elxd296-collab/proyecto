@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+el proyecto es para un circuito
 ## How to test
 
-Explain how to use your project
-
+conectar el dip para energizar el display
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
